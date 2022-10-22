@@ -133,6 +133,9 @@ i.fa-step-backward{
         transform: rotate(359deg);
     }
 }
+#wave{
+    height: 3rem;
+}
 .loader{
     height: 3rem;
     display: flex;
